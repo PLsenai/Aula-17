@@ -31,7 +31,7 @@ body {
 
 /* == Header Cabeçalho == */
 .cabecalho {
-    background-color: var(--cor-principal);
+    background-color: pink;
     padding: 15px 5%;
     display: flex;
     justify-content: space-between;
@@ -103,7 +103,7 @@ body {
 }
 
 #sobre {
-    min-height: 100vh;
+    min-height: 60rem;
     padding: 120px 5%;
     background-image: url(assets/sobrenos.png);
     background-size: cover;background-repeat: no-repeat;
@@ -326,7 +326,7 @@ body {
 
 
 footer {
-    background-color: var(--cor-principal);
+    background-color: pink;
     padding: 20px;
     text-align: center;
 }
