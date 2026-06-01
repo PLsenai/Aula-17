@@ -103,7 +103,7 @@ body {
 }
 
 #sobre {
-    min-height: 60rem;
+    min-height: 55rem;
     padding: 120px 5%;
     background-image: url(assets/sobrenos.png);
     background-size: cover;background-repeat: no-repeat;
